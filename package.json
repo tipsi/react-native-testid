@@ -1,0 +1,26 @@
+{
+  "name": "react-native-testid",
+  "version": "1.0.0",
+  "description": "A convenient way to set test id for React-Native components",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/isnifer/react-native-testid.git"
+  },
+  "keywords": ["react-native", "testID"],
+  "authors": [
+    "Anton Petrov <petrov.aap@gmail.com> (https://github.com/itsmepetrov)",
+    "Anton Kuznetsov <isnifer@gmail.com> (https://github.com/isnifer)"
+  ],
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/isnifer/react-native-testid/issues"
+  },
+  "homepage": "https://github.com/isnifer/react-native-testid#readme",
+  "peerDependencies": {
+    "react-native": "^0.40.0"
+  }
+}
